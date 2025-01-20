@@ -1,1 +1,1 @@
-# Auto-Car-Claim-Classification-Hackathon-Challenge
+# Auto Claim Severity Prediction
